@@ -89,7 +89,7 @@
             return false
         }
         if (deptId == "" || deptId == null) {
-            $("#deptIdError").html("所属部门不能为空！")
+            $("#deptIdError").html("所属部门不能为空！aiwfjkashiozxovjzdiboujzdojgasfja")
             return false
         }
         data = {

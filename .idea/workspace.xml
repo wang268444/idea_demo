@@ -6,165 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1e65f71-01f1-47b3-94f5-4b559915a3e0" name="Default Changelist" comment="第一次提交到本地仓库">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/zhangzhenwang_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/aopalliance.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_adapter_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/applicationContext-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/applicationContext-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/META-INF/zhangzhenwang.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/applicationContext-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/applicationContext-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/com/cn/demo/controller/DeptController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/com/cn/demo/controller/LoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/com/cn/demo/controller/RoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/com/cn/demo/entity/Dept.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/com/cn/demo/entity/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/com/cn/demo/entity/Users.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/com/cn/demo/mapper/DeptMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/com/cn/demo/mapper/DeptMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/com/cn/demo/mapper/RoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/com/cn/demo/mapper/RoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/com/cn/demo/mapper/UsersMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/com/cn/demo/mapper/UsersMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/com/cn/demo/service/DeptService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/com/cn/demo/service/RoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/com/cn/demo/service/UsersService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/com/cn/demo/service/impl/DeptServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/com/cn/demo/service/impl/RoleServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/com/cn/demo/service/impl/UsersServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/com/cn/publics/JumpViewConstants.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/com/cn/publics/ReturnConstants.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/classes/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/dept.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/aopalliance.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/aspectjweaver.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/commons-beanutils-1.7.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/commons-collections-3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/commons-dbcp-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/commons-lang-2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/commons-logging.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/commons-pool.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/ezmorph-1.0.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/json-lib-2.4-jdk15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/log4j-adapter-1.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/log4j.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/mybatis-3.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/mybatis-spring-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.8-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/servlet-api.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/slf4j-log4j12-1.7.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/spring-aop-4.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/spring-aspects-4.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/spring-beans-4.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/spring-context-4.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/spring-core-4.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/spring-expression-4.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/spring-jdbc-4.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/spring-tx-4.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/spring-web-4.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/spring-webmvc-4.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/lib/standard.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/role.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/usersLogin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/zhangzhenwang_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/META-INF/zhangzhenwang.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/applicationContext-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/applicationContext-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/com/cn/demo/controller/DeptController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/com/cn/demo/controller/LoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/com/cn/demo/controller/RoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/com/cn/demo/entity/Dept.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/com/cn/demo/entity/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/com/cn/demo/entity/Users.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/com/cn/demo/mapper/DeptMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/com/cn/demo/mapper/DeptMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/com/cn/demo/mapper/RoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/com/cn/demo/mapper/RoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/com/cn/demo/mapper/UsersMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/com/cn/demo/mapper/UsersMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/com/cn/demo/service/DeptService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/com/cn/demo/service/RoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/com/cn/demo/service/UsersService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/com/cn/demo/service/impl/DeptServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/com/cn/demo/service/impl/RoleServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/com/cn/demo/service/impl/UsersServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/com/cn/publics/JumpViewConstants.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/com/cn/publics/ReturnConstants.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/zhangzhenwang/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cn/demo/controller/DeptController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cn/demo/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cn/demo/controller/RoleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cn/demo/entity/Dept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cn/demo/entity/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cn/demo/entity/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cn/demo/mapper/DeptMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cn/demo/mapper/DeptMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cn/demo/mapper/RoleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cn/demo/mapper/RoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cn/demo/mapper/UsersMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cn/demo/mapper/UsersMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cn/demo/service/DeptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cn/demo/service/RoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cn/demo/service/UsersService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cn/demo/service/impl/DeptServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cn/demo/service/impl/RoleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cn/demo/service/impl/UsersServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cn/publics/JumpViewConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cn/publics/ReturnConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/dept.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/aopalliance.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/aspectjweaver.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.7.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-collections-3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-dbcp-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-lang-2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-pool.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/ezmorph-1.0.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/json-lib-2.4-jdk15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/log4j-adapter-1.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/log4j.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mybatis-3.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mybatis-spring-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.8-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/servlet-api.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/slf4j-log4j12-1.7.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-aop-4.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-aspects-4.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-beans-4.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-context-4.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-core-4.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-expression-4.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-jdbc-4.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-tx-4.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-web-4.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-webmvc-4.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/standard.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/role.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/usersLogin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zhangzhenwang.iml" afterDir="false" />
+    <list default="true" id="d1e65f71-01f1-47b3-94f5-4b559915a3e0" name="Default Changelist" comment="第一次提交GitHub服务器">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,6 +26,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Program Files\IdeaProjects\zhangzhenwang\.idea" />
+      </set>
+    </option>
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -335,8 +185,16 @@
       <workItem from="1576806579318" duration="30583000" />
       <workItem from="1576842008203" duration="18000" />
       <workItem from="1577067391378" duration="719000" />
-      <workItem from="1577088344065" duration="3422000" />
+      <workItem from="1577088344065" duration="3690000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交到本地仓库">
+      <created>1577092385627</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577092385627</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,7 +202,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交到本地仓库" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交到本地仓库" />
+    <MESSAGE value="第一次提交GitHub服务器" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交GitHub服务器" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Project_Structure" timestamp="1576806667631">
@@ -363,10 +222,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576839157088" />
-    <state x="526" y="113" key="CommitChangelistDialog2" timestamp="1577092300110">
+    <state x="526" y="113" key="CommitChangelistDialog2" timestamp="1577092585922">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="526" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577092300110" />
+    <state x="526" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577092585922" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1577092083897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cn.demo.mapper.UsersMapper">
+    <select id="checkUserName" parameterType="String" resultType="Integer">
+        select count(userId) from users where userName=md5(#{userName})
+    </select>
+
+    <select id="checkPassWordByUserName" parameterType="String" resultType="String">
+        select passWord from users where userName=md5(#{userName})
+    </select>
+
+    <select id="queryLoginUser" parameterType="users" resultType="users">
+        select * from users where userName=md5(#{userName}) and passWord=#{passWord}
+    </select>
+
+</mapper>

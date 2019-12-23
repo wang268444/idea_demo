@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cn.demo.mapper.RoleMapper">
+    <select id="queryRole" resultType="role">
+        select r.*,d.deptName from role r left join dept d on r.deptId=d.deptId
+    </select>
+
+    <insert id="addRole" parameterType="role">
+        insert into role (roleName,deptId,create_Time) values (#{roleName},#{deptId},#{create_Time})
+    </insert>
+
+    <update id="updateRole" parameterType="role">
+        update role set roleName=#{roleName},deptId=#{deptId},update_Time=#{update_Time} where roleId=#{roleId}
+    </update>
+
+    <delete id="deleteRole" parameterType="Integer">
+        delete from role where roleId=#{roleId}
+    </delete>
+
+</mapper>
